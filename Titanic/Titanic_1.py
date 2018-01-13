@@ -124,21 +124,14 @@ def loadData(dataset):
 
     # Fill empty and NaNs values with NaN
     dataset = dataset.fillna(np.nan)
-
+    print dataset.info()
+    print dataset.describe()
     # Check for Null values
-    print dataset.isnull().sum()
-
-    # Info
-    print train.info()
-    print train.isnull().sum()
-    print train.dtypes
-
-    # Summarise and statistics
-    print train.describe()
+    print "sum is",dataset.isnull().sum()
 
     # Correlation matrix between numerical values (SibSp Parch Age and Fare values) and Survived
-    # g = sns.heatmap(train[["Survived","SibSp","Parch","Age","Fare"]].corr(),annot=True, fmt = ".2f", cmap = "coolwarm")
-    # plt.show()
+    g = sns.heatmap(train[["Survived","SibSp","Parch","Age","Fare"]].corr(),annot=True, fmt = ".2f", cmap = "coolwarm")
+    plt.show()
 
     #visualising sibsp with survival
     # Explore SibSp feature vs Survived
@@ -146,7 +139,8 @@ def loadData(dataset):
     # palette = "muted")
     # g.despine(left=True)
     # g = g.set_ylabels("survival probability")
-
+    print dataset[['Pclass', 'Survived']].groupby(['Pclass'], as_index=False).mean().sort_values(by='Survived',
+                                                                                            ascending=False)
     # # Explore Parch feature vs Survived
     # g  = sns.factorplot(x="Parch",y="Survived",data=train,kind="bar", size = 6 ,
     # palette = "muted")
@@ -315,7 +309,8 @@ if __name__ == '__main__':
     train = pd.read_csv("data/train.csv")
     test = pd.read_csv("data/test.csv")
     IDtest = test["PassengerId"]
-    print train.describe()
+    # print train.describe()
+    # print train.info()
 
     # detect outliers from Age, SibSp , Parch and Fare
     Outliers_to_drop = detect_outliers(train, 2, ["Age", "SibSp", "Parch", "Fare"])

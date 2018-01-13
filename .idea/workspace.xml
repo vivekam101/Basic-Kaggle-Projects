@@ -15,14 +15,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="general ds.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Python-Exercises/general ds.py">
+      <file leaf-file-name="tut_01.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/7. Stats/tut_01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="136" column="0" lean-forward="true" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
-              <folding>
-                <element signature="e#40#50#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -38,15 +36,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>#print</find>
-      <find>print</find>
-      <find>sex</find>
-      <find>embarked</find>
-      <find>PassengerId</find>
-      <find>plt</find>
-      <find>g</find>
-      <find>drop</find>
-      <find>Title</find>
       <find>Sex</find>
       <find>features_top_n_rf</find>
       <find>log</find>
@@ -58,10 +47,31 @@
       <find>Classifi</find>
       <find>classification_report</find>
       <find>Embarked</find>
+      <find>index</find>
+      <find>age</find>
+      <find>Age</find>
+      <find>dailyData</find>
+      <find>dummies</find>
+      <find>features_top_n_gb</find>
+      <find>xgboo</find>
+      <find>word_tokenize</find>
+      <find>preprocess_text</find>
+      <find>voca</find>
+      <find>punctua</find>
+      <find>stopwords_en_withpunct</find>
+      <find>count_val</find>
+      <find>isalp</find>
+      <find>CountVectorizer</find>
+      <find>train_test_split</find>
+      <find>requester_received_pizza</find>
+      <find>SGD</find>
+      <find>agg</find>
     </findStrings>
     <replaceStrings>
       <replace>dataset</replace>
       <replace>test</replace>
+      <replace>windspeed</replace>
+      <replace>combined</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -76,11 +86,55 @@
       <list>
         <option value="$PROJECT_DIR$/Titanic/Titanic.py" />
         <option value="$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions" />
-        <option value="$PROJECT_DIR$/Titanic/Titanic_1.py" />
         <option value="$PROJECT_DIR$/Forest Cover/forest.py" />
         <option value="$PROJECT_DIR$/../Python-Exercises/DocStrings.py" />
         <option value="$PROJECT_DIR$/../Python-Exercises/robots.py" />
         <option value="$PROJECT_DIR$/../Python-Exercises/general ds.py" />
+        <option value="$PROJECT_DIR$/Titanic/Titanic_1.py" />
+        <option value="$PROJECT_DIR$/Bike Rental/bike.py" />
+        <option value="$PROJECT_DIR$/House Price Prediction/house_pred.py" />
+        <option value="$PROJECT_DIR$/Digit Recognizer/digit_recognizer.py" />
+        <option value="$PROJECT_DIR$/Pizza Text/nlp.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/seaborn.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/seaborn_plots.py" />
+        <option value="$PROJECT_DIR$/Santander/santander.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/pandas.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/pandas._tut.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/pandas._tut02.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/pandas._tut03.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Filtering N Sorting/tut_01.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Filtering N Sorting/tut_02.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Filtering N Sorting/tut_03.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Apply/tut_01.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Apply/tut_02.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Merge/tut_01.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Merge/tut_02.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Apply/tut_03.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Stats/tut_01.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Stats/tut_02.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Visualisation/tut_01.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Visualisation/tut_02.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Time Series/tut_01.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Time Series/tut_02.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Time Series/tut_03.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Delete/tut_01.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Delete/tut_02.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Knowing ur data/pandas._tut01.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Knowing ur data/pandas._tut02.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Knowing ur data/pandas._tut03.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Grouping/tut_01.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Grouping/tut_02.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Grouping/tut_03.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/3. Filtering N Sorting/tut_01.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/3. Filtering N Sorting/tut_02.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/3. Filtering N Sorting/tut_03.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/4. Apply/tut_01.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/4. Apply/tut_02.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/4. Apply/tut_03.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/5. Delete/tut_01.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/5. Delete/tut_02.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/6. Merge/tut_01.py" />
+        <option value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/6. Merge/tut_02.py" />
       </list>
     </option>
   </component>
@@ -109,8 +163,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/vitv.ORADEV/Desktop/Andrew NG/Kaggle/Forest Cover/forest.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/vitv.ORADEV/Desktop/Andrew NG/Kaggle/Digit Recognizer/digit_recognizer.py" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -124,111 +178,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.general ds">
-    <configuration name="DocStrings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.tut_02 (2)">
+    <configuration name="tut_01 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python-Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/6. Merge" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Kaggle" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python-Exercises/DocStrings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/6. Merge/tut_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Titanic_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tut_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Titanic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Kaggle" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Titanic/Titanic_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="forest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Forest Cover" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Kaggle" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Forest Cover/forest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="general ds" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python-Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/5. Delete" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Kaggle" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python-Exercises/general ds.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/5. Delete/tut_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="robots" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tut_02 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python-Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/6. Merge" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Kaggle" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python-Exercises/robots.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/6. Merge/tut_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="tut_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/5. Delete" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Kaggle" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/5. Delete/tut_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="tut_03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/4. Apply" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Kaggle" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/4. Apply/tut_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Titanic_1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.forest" />
-      <item index="2" class="java.lang.String" itemvalue="Python.general ds" />
-      <item index="3" class="java.lang.String" itemvalue="Python.robots" />
-      <item index="4" class="java.lang.String" itemvalue="Python.DocStrings" />
+      <item index="0" class="java.lang.String" itemvalue="Python.tut_03" />
+      <item index="1" class="java.lang.String" itemvalue="Python.tut_01" />
+      <item index="2" class="java.lang.String" itemvalue="Python.tut_02" />
+      <item index="3" class="java.lang.String" itemvalue="Python.tut_01 (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.tut_02 (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.general ds" />
-        <item index="1" class="java.lang.String" itemvalue="Python.DocStrings" />
-        <item index="2" class="java.lang.String" itemvalue="Python.robots" />
-        <item index="3" class="java.lang.String" itemvalue="Python.forest" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Titanic_1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.tut_02 (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tut_01 (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tut_02" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tut_01" />
+        <item index="4" class="java.lang.String" itemvalue="Python.tut_03" />
       </list>
     </recent_temporary>
   </component>
@@ -266,10 +320,10 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13636364" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22570533" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22545847" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39724454" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" x="-1" y="229" width="1771" height="443" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46326062" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" x="829" y="87" width="936" height="927" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24957651" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -287,19 +341,19 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22570533" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22545847" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49712974" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" x="829" y="87" width="936" height="927" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39724454" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" x="-1" y="229" width="1771" height="443" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13636364" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24957651" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.399137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -313,308 +367,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Forest Cover/forest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7296">
-          <caret line="305" column="62" lean-forward="false" selection-start-line="305" selection-start-column="62" selection-end-line="305" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10824">
-          <caret line="451" column="66" lean-forward="false" selection-start-line="428" selection-start-column="4" selection-end-line="451" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Forest Cover/forest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Forest Cover/forest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4560">
-          <caret line="190" column="41" lean-forward="false" selection-start-line="190" selection-start-column="41" selection-end-line="190" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11616">
-          <caret line="484" column="0" lean-forward="false" selection-start-line="470" selection-start-column="0" selection-end-line="484" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Forest Cover/forest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2856">
-          <caret line="119" column="35" lean-forward="false" selection-start-line="119" selection-start-column="35" selection-end-line="119" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Forest Cover/forest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2904">
-          <caret line="121" column="46" lean-forward="false" selection-start-line="121" selection-start-column="46" selection-end-line="121" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11616">
-          <caret line="484" column="0" lean-forward="false" selection-start-line="470" selection-start-column="0" selection-end-line="484" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Forest Cover/forest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3120">
-          <caret line="130" column="43" lean-forward="true" selection-start-line="130" selection-start-column="43" selection-end-line="130" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10896">
-          <caret line="454" column="32" lean-forward="false" selection-start-line="454" selection-start-column="11" selection-end-line="454" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Forest Cover/forest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2784">
-          <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10896">
-          <caret line="454" column="32" lean-forward="false" selection-start-line="454" selection-start-column="11" selection-end-line="454" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Forest Cover/forest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2736">
-          <caret line="115" column="41" lean-forward="false" selection-start-line="115" selection-start-column="41" selection-end-line="115" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Forest Cover/forest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11376">
-          <caret line="474" column="59" lean-forward="false" selection-start-line="474" selection-start-column="31" selection-end-line="474" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Forest Cover/forest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7896">
-          <caret line="329" column="0" lean-forward="false" selection-start-line="329" selection-start-column="0" selection-end-line="330" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic.py" />
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic.py" />
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic.py" />
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic.py" />
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic.py" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="1682" column="0" lean-forward="false" selection-start-line="1682" selection-start-column="0" selection-end-line="1682" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="300" column="61" lean-forward="false" selection-start-line="300" selection-start-column="61" selection-end-line="300" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Forest Cover/forest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="315" column="30" lean-forward="false" selection-start-line="315" selection-start-column="30" selection-end-line="315" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -634,11 +395,256 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Python-Exercises/general ds.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="241" column="31" lean-forward="true" selection-start-line="241" selection-start-column="31" selection-end-line="241" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forest Cover/forest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6120">
+          <caret line="256" column="0" lean-forward="false" selection-start-line="255" selection-start-column="4" selection-end-line="255" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Titanic/Titanic_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="531" column="51" lean-forward="false" selection-start-line="531" selection-start-column="51" selection-end-line="531" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bike Rental/bike.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3768">
+          <caret line="158" column="38" lean-forward="false" selection-start-line="158" selection-start-column="38" selection-end-line="158" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/House Price Prediction/house_pred.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Digit Recognizer/digit_recognizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2444">
+          <caret line="146" column="38" lean-forward="true" selection-start-line="146" selection-start-column="38" selection-end-line="146" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pizza Text/nlp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="415" column="28" lean-forward="false" selection-start-line="415" selection-start-column="28" selection-end-line="415" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/seaborn.py" />
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/seaborn_plots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="54" column="65" lean-forward="false" selection-start-line="54" selection-start-column="65" selection-end-line="54" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Santander/santander.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/pandas.py" />
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/pandas._tut.py" />
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/pandas._tut02.py" />
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/pandas._tut03.py" />
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Filtering N Sorting/tut_03.py" />
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Apply/tut_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Apply/tut_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Merge/tut_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Merge/tut_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="19" column="49" lean-forward="false" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Apply/tut_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Filtering N Sorting/tut_02.py" />
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Filtering N Sorting/tut_01.py" />
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Stats/tut_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Stats/tut_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Visualisation/tut_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Visualisation/tut_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Time Series/tut_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Time Series/tut_02.py" />
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Time Series/tut_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Delete/tut_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Delete/tut_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="20" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Knowing ur data/pandas._tut01.py" />
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Knowing ur data/pandas._tut02.py" />
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Knowing ur data/pandas._tut03.py" />
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Grouping/tut_01.py" />
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Grouping/tut_02.py" />
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/Grouping/tut_03.py" />
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/3. Filtering N Sorting/tut_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="43" column="80" lean-forward="false" selection-start-line="43" selection-start-column="80" selection-end-line="43" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/3. Filtering N Sorting/tut_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="33" column="59" lean-forward="false" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/3. Filtering N Sorting/tut_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="55" column="28" lean-forward="true" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/4. Apply/tut_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/4. Apply/tut_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/4. Apply/tut_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/5. Delete/tut_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/5. Delete/tut_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/6. Merge/tut_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/6. Merge/tut_02.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="411">
-          <caret line="136" column="0" lean-forward="true" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
-          <folding>
-            <element signature="e#40#50#0" expanded="true" />
-          </folding>
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python-Exercises/Pandas_Tut/7. Stats/tut_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
